@@ -11,7 +11,6 @@ direction_dict = {
 #you can split this into like an x value and a y value or you van use this 
 #    int x[] = {0, 1, 1,  1,  0, -1, -1, -1};
 #    int y[] = {1, 1, 0, -1, -1, -1,  0,  1};
-#this is how i split it for my c++ class 
 
 
 def matrix_search(matrix, word):
